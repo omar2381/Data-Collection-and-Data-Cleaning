@@ -1,5 +1,5 @@
 #Using Python Version 3.8.8 on 64-bit windows Machine, on VScode
-# to run the program, enter "python3 .\zsdd25.py" in command line
+# to run the program, enter "python3 scrape_and_compare.py" in command line
 
 #imports
 from bs4 import BeautifulSoup, SoupStrainer             # V 4.9.3
